@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Katalog Eksklusif</title>
+  <style>
+    /* Menghilangkan margin dan membuat Iframe memenuhi layar sepenuhnya */
+    body, html { 
+      margin: 0; 
+      padding: 0; 
+      height: 100%; 
+      overflow: hidden; 
+      background-color: #F8F8F8;
+    }
+    iframe { 
+      width: 100%; 
+      height: 100%; 
+      border: none; 
+      display: block;
+    }
+  </style>
+</head>
+<body>
+  <!-- Ganti LINK_EXEC_KAMU dengan link asli Google Apps Script milikmu yang berakhiran /exec -->
+  <iframe src="LINK_EXEC_KAMU" title="Katalog Skincare"></iframe>
+</body>
+</html>
